@@ -2064,6 +2064,15 @@ select[multiple] {
     color: #0a0a0a;
     background-color: #fff
 }
+.callout3 {
+    margin: 0 0 1rem;
+    padding: 1rem;
+    border: 1px solid hsla(0, 0%, 4%, .25);
+    border-radius: 100%;
+    position: relative;
+    color: #0a0a0a;
+    background-color: #fff
+}
 .callout>:first-child {
     margin-top: 0
 }

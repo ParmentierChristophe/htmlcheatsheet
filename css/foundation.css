@@ -2053,11 +2053,12 @@ select {
     .callout2 {
       margin: 0 0 0 0;
       padding: 1rem;
-      border: 1px solid rgba(10, 10, 10, 0.25);
+      border: 0px solid rgba(10, 10, 10, 0.25);
       border-radius: 0;
       position: relative;
-      color: #0a0a0a;
+      color: #fff;
       background-color: white; }
+
       .callout > :first-child {
         margin-top: 0; }
       .callout > :last-child {
@@ -2067,7 +2068,7 @@ select {
       .callout.secondary {
         background-color: #ebebeb; }
         .callout2.secondary {
-          background-color: #cdcdcd;
+          background-color: #e44d26;
          }
         .callout3.secondary {
           background-color: #f16529;
