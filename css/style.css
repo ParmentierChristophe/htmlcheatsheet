@@ -1,31 +1,4 @@
-/*GENERAL SETTINGS*/
-* {
-    margin: 0;
-    padding: 0;
-    position: relative;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-img {
-    border: none;
-}
-ul {
-    list-style: none;
-}
-.clear {
-    clear: both;
-}
-a {
-    text-decoration: none;
-    color: inherit;
-}
-a:hover {
-    text-decoration: underline;
-}
-
-/* HEADER */
-
+/* Header background */
 header {
   background-color: #f16529;
   width: 100%;
@@ -35,8 +8,7 @@ header {
   border-bottom: 25px solid #e44d26;
 }
 
-
-/* LOGO */
+/* Logo html5 */
 img {
 width: 200px;
 display: block;
@@ -44,8 +16,7 @@ margin: 0 auto;
 padding-top: 25px;
 }
 
-
-/* CUSTOMIZE H1 */
+/* custom h1 */
 .customh1 {
   padding: 20px 0 20px 0;
   text-transform: uppercase;
@@ -53,12 +24,7 @@ padding-top: 25px;
 
 }
 
-/* CUSTMIZE H3 */
+/* uppercase h3 */
 h3 {
   text-transform: uppercase;
-}
-
-.callout3 {
-  margin-top: 20px;
-
 }
